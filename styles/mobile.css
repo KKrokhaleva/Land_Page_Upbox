@@ -1,0 +1,728 @@
+@media (max-width: 1300px) {
+    .conteiner_1440{
+        background-position: 180% -20%, 96% 50%;
+    }
+}
+@media (max-width: 1240px) {
+    .conteiner_1440{
+        background-image: url("../img/box.png");
+        background-position: 250% -20%;
+        background-size: 90% 140%;
+    }
+    .hero_heading{
+        padding-top: 55px;
+    }
+    .hero_left{
+        margin-left: 5.2%;
+    } 
+    .hero_heading{
+        margin-bottom: 18px;
+        font-size: 46px;
+        line-height: 52px;
+    }
+    .hero_description{
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+@media (max-width: 1140px) {
+    .hero_heading{
+        font-size: 42px;
+        line-height: 48px;
+    }
+    .hero_description{
+        font-size: 14px;
+        line-height: 18px;
+    }
+}
+@media (max-width: 945px) {
+    .link{
+        margin-left: 47px;
+    }
+    .conteiner_1440{
+        background-position: -400% -20%;
+        background-size: 105% 130%;
+    }
+    .hero_left{
+        width: 47.5%;
+    } 
+    .hero_heading{
+        padding-top: 5px;
+    }
+    .sypp_heading{
+        margin:0 0 30px 52%;
+        
+    }
+    .sypp_description{
+        margin:0 0 0 52%;   
+    }
+    .tioah_heading{
+        margin:0 0 25px 200px;
+    }
+    .tioah_description{
+        margin:0 0 0 200px;
+    }
+    .tioah_feature2{
+        left: -8%;
+    }
+    .tioah_feature1{
+        left: -250px;
+    }
+    .tioah_three{
+        left: -250px;
+    }
+    .conteiner_1182{
+        padding: 0 16px 0 30px;
+    }
+}
+@media (max-width: 768px) {
+    .logo{
+       width: 129px;
+       height: 37px;
+    }
+    .link1{
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .link{
+        margin-left: 37px;
+        font-size: 10px;
+        line-height: 13px;
+        letter-spacing: 0.16em;
+    }
+    .btn_login{
+        width: 105px;
+        height: 32px;
+        font-size: 10px;
+        color: #000;
+        line-height: 28px;
+        margin-left: 28px;
+    }
+    .conteiner_1218{
+        margin: 0 40px;
+    }
+    .hero{
+        height: 474px;
+        margin-bottom: 27px;
+        overflow: hidden;
+    }
+    .header_main{
+        height: 70px;
+    }
+    .conteiner_1440{
+        background-image: url("../img/box.png");
+        background-position: -160% -90%;
+        background-size: 110% 110%;
+        max-width: 768px;
+    }
+    .hero_left{
+        width: 47.5%;
+    }  
+    .btn_signup{
+        width: 161px;
+        height: 49px;
+        font-size: 14px;
+        line-height: 40px;
+    }
+    .pyp_heading {
+        font-size: 42px;
+        line-height: 48px;
+        margin: 0 0 50px 0;
+    }
+    .pyp_heading::after {
+        transform: scale(0.8) translate(-60%);
+    }
+    .pyp_row{
+        max-width: 676px;
+        margin: 0 auto;
+    }
+    .pyp_plan_1{
+      background-size: 100% 100%;
+    }  
+    .pyp_plan_2{
+        background-size: 100% 100%;
+    }
+    .pyp_plan_name{
+        font-size: 20px;
+        line-height: 27px;
+        margin: 24px 0 1px 0;
+    }
+    .pyp_plan_price{
+        font-size: 24px;
+        line-height: 31px;
+        margin: 0 0 6px 0;
+    }
+    .pyp_plan_btn{
+        margin-bottom: 33px;
+        width: 106.3px;
+        height: 32.42px;
+        font-size: 8px;
+        line-height: 24px;
+    }
+    .pyp_description{
+        margin: 22.5px 0 110px 0;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+    }
+    .hiw_heading {
+        font-size: 42px;
+        line-height: 56px;
+        margin: 0 0 65px 0;
+    }
+    .hiw_heading::after {
+        transform: scale(0.8) translate(-60%);
+    }
+    .sypp{
+        margin-bottom: 280px;
+    }
+    .s3_heading{
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .sypp_heading{
+        margin:0 0 10px 44%;
+    }
+    .s3_description{
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .sypp_description{
+        max-width: 311px;
+        margin:0 0 0 44%;   
+    }
+    .sypp_feature2{
+        top: -40px;
+        left: -3%;
+        width: 30%;
+    }
+    .sypp_feature1{
+        left: 6%;
+        top: -30px;
+        width: 33.5%;
+    }
+    .sypp_one{
+        left: 9%;
+        top: -180px;
+    }
+    .rycb_heading{
+        margin:0 0 10px 50%;
+        max-width: 200px;
+      }
+    .rycb_description{
+        margin:0 0 0 50%;
+        max-width: 320px;
+    }
+    .rycb_feature2{
+        width: 20%;
+        left: 34%;
+        top: -256px;
+    }
+    .rycb_feature3{
+        width: 33%;
+        left: 62.5%;
+        top: -334px;
+    }
+    .rycb_feature1{
+        width: 970px;
+        left: -2%;
+        top: -489px;
+    }
+    .rysb_two{
+        left: 33.5%;
+        top: -295px;
+    }
+    .conteiner_880{
+        margin: -90px 73px 67px 295px;
+        padding: 0 0 180px 0;
+    }
+    .tioah_heading{
+        margin:0 0 10px 50px;
+    }
+    .tioah_description{
+        max-width: 353px;
+        margin:0 0 0 50px;
+    }
+    .tioah_feature2{
+        left: -19%;
+        top: 124px;
+        width: 40%;
+    }
+    .tioah_feature1{
+        left: -60%;
+        top: -70px;
+        width: 65%;
+    }
+    .tioah_three{
+        top: -215px;
+        left: -60%;
+    }
+    .btn_tryit{
+        margin-bottom: 86px;
+    }
+    .btn_tryit_a{
+        width: 225.68px;
+        height: 48.47px;
+        font-size: 12px;
+        line-height: 40px;
+    }
+    .conteiner_1350{
+        background-image: url("../img/squig1.png");
+        background-position: 8% 26%;
+    }
+    .social-post4{
+        margin: 0 55px 7px 55px;
+        flex-wrap: wrap;
+    }
+    .social-post-inner {
+        flex-basis: 100%;
+        margin-right: 0;
+        margin-bottom: 29px;
+    } 
+    .social-post-inner:last-child {
+        margin-right: 0;
+    }
+    .sp_description_p{
+        font-size: 20px;
+        line-height: 26px;
+        margin: 30px 0 20px 0;
+    }
+    .s4_btn{
+        margin-bottom: 130px;
+    }
+    .btn_fuoi{
+        margin: 0 auto;
+        width: 320px;
+        height: 61px;
+        background: #EF8094;
+        border: 4px solid #EF8094;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 58px;
+        color: #FFFFFF;  
+    }
+    .conteiner_1216{
+        padding: 54px 100px 55px 62px ; 
+    }
+    .conteiner_1182{
+        padding: 0 126px 30px 62px;
+        flex-wrap: wrap;
+    }
+    .column{
+        width: 173px;
+    }
+    .tp{
+        height: 50px;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .terms{
+        margin-left: 62px;
+    }
+    .pp{
+        margin-left: 36px;
+    }
+    .footer-description{
+        display: block;
+        max-width: 549px;
+        margin: 0 0 21px 62px; 
+    }
+}
+@media (max-width: 625px) {
+    .conteiner_1218 {
+        margin: 0 10px;
+    }
+    .logo{
+       width: 109px;
+       height: 27px;
+    }
+    .link{
+        margin-left: 17px;
+    }
+    .btn_login{
+        margin:0 5px 0 7px;
+    }
+    .rycb_description {
+        max-width: 250px;
+    }
+    .rycb_feature2{
+        left: 25%;
+    }
+    .rycb_feature3{
+     display: none;
+    }
+    .rycb_feature1{
+        left: -27%;
+    }
+    .rysb_two{
+        left: 22%;
+    }
+    .tioah_heading {
+        margin: 0 0 10px 25px;
+    }
+    .tioah_description {
+        margin: 0 0 0 25px;
+    }
+    .tioah_feature1 {
+        left: -115%;
+        width: 120%;
+    }
+    .tioah_three {
+        left: -115%;
+    }
+    .conteiner_1350{
+        background-image: none;
+    }
+    .conteiner_1216{
+        padding: 44px 45px 61px 40px ;
+    }
+    .conteiner_1182{
+        padding: 0 46px 0 60px;
+    }
+}
+@media (max-width: 520px) {
+    .conteiner_1218 {
+        margin: 0 5px;
+    }
+    .logo{
+       width: 99px;
+       height: 23px;
+    }
+    .link{
+        margin-left: 7px;
+    }
+    .btn_login{
+        width: 64px;
+        height: 23px;
+        margin:0 5px 0 7px;
+        line-height: 20px;
+    }
+    .hero_left{
+        width: 64%;
+    }
+    .hero_heading{
+        font-size: 42px;
+        line-height: 48px;
+    }
+    .hero_description{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .sypp {
+        margin-bottom: 140px;
+    }
+    .rycb_heading{
+        margin:0 0 10px 40%;
+    }
+    .rycb_description{
+        margin:0 0 0 40%;
+    }
+    .rycb_feature2{
+        left: 5%;
+        width: 35%;
+    }
+    .rycb_feature3{
+        display: none;
+    }
+    .rycb_feature1{
+        left: -55%;
+    }
+    .rysb_two{
+        left: 15%;
+    }
+    .conteiner_880 {
+        margin: 150px 73px 67px 95px;
+        padding: 0 0 80px 0;
+    }
+    .tioah_heading {
+        margin: 0 0 10px -10px;
+    }
+    .tioah_description {
+        margin: 0 0 0 -10px;
+    }
+    .tioah_feature1 {
+        left: -5%;
+        width: 80%;
+        top: -350px;
+    }
+    .tioah_feature2 {
+        left: -9%;
+        width: 50%;
+        top: -150px;
+    } 
+    .tioah_three {
+        left: -10%;
+        top: -515px;
+    } 
+    .conteiner_1216{
+        padding: 44px 15px 61px 10px ;
+    }
+    .social{
+        width: 127px;
+    }
+    .conteiner_1182{
+        padding: 0 0 0 10px;
+    }
+    .column {
+        width: 150px;
+    }
+    .column_heading{
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .column_a{
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .terms {
+        margin-left: 10px;
+    }
+    .footer-description {
+        margin: 0 0 21px 10px;
+    }
+}
+@media (max-width: 375px) {
+    .logo{
+        display: none;
+    }
+    .nav{
+        display:none ;
+    }
+    .header_main{
+        display: none;
+    }
+    .conteiner_1218{
+        display: none;
+    }
+    .header_mobile{
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        max-width: 342px;
+        height: 90px;
+        align-items: center;
+        margin: 0 auto;
+    }
+    .logo-mobile{
+        width: 56px;
+        height: 56px;
+    }
+    .hero{
+        height: 945px;
+        margin-bottom: 97px;
+    }
+    .conteiner_1440 {
+        background-image: url(../img/box.png);
+        background-position: 50% 130%;
+        background-size: 190% 55%;
+        max-width: 768px;
+    }
+    .hero_left{
+        width: 302px;
+        overflow: auto;
+        margin-left: 11.47%;
+        height: 945px;
+    }
+    .hero_heading{
+        margin-bottom: 28px;
+        padding-top: 43px;
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .hero_description{
+        display: block;
+        font-size: 18px;
+        line-height: 23px;
+        margin: 0 0 37px 0;
+    }
+    .btn_signup{
+        background-color: #ffffff;
+        width: 183px;
+        height: 61px;
+        font-size: 16px;
+        line-height: 53px;
+    }
+    .pyp_heading {
+        font-size: 48px;
+        line-height: 56px;
+        margin: 0 0 65px 0;
+    }
+    .pyp_heading::after {
+        transform: scale(1) translate(-50%);
+    }
+    .pyp_row{
+        max-width: 375px;
+        margin: 0 auto;
+        flex-wrap: wrap;
+    }
+    .pyp_plan{
+        width: 348px;
+        margin: 0 0 19px 14px;
+    } 
+    .pyp_plan_name{
+        font-size: 30px;
+        line-height: 41px;
+        margin: 24px 0 3px 0;
+    }
+    .pyp_plan_price{
+        font-size: 30px;
+        line-height: 39px;
+        margin: 0 0 8px 0;
+    }
+    .pyp_plan_btn{
+        margin-bottom: 34px;
+        width: 179px;
+        height: 40px;
+        font-size: 14px;
+        line-height: 38px;
+    }
+    .pyp_description{
+        margin: 0 44px 85px 15px;
+        text-align: left;
+    }
+    .hiw_heading {
+        font-size: 48px;
+        line-height: 56px;
+        margin-bottom: 500px;
+    }
+    .hiw_heading::after {
+        transform: scale(1) translate(-50%);
+    }
+    .conteiner_965{
+        height: 200px;
+        margin-bottom: 540px;
+    }
+    .s3_heading{
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .sypp_heading{
+        margin:0 17px 10px 14%;        
+    }
+    .s3_description{
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .sypp_description{
+        margin:0 47px 0 14%;   
+    }
+    .sypp_feature2{
+        top: -432px;
+        width: 75%;
+        left: -18%;
+    }
+    .sypp_feature1{
+        left: 6%;
+        top: -420px;
+        width: 86.5%;
+    }
+    .sypp_one{
+        left: 12%;
+        top: -553px;
+    }
+    .rycb_heading{
+        margin:0 0 10px 13.6%;
+      }
+    .rycb_description{
+      margin: 0 20px 0 13.6%;
+    }
+   .rycb_feature2{
+        left: 0;
+        top: -240px;
+        width: 50%;
+   }
+    .rycb_feature1{
+        width: 262%;
+        top: -520px;
+        left: -83%;
+    }
+    .rysb_two{
+        left: 10%;
+        top: -640px;
+    }
+    .conteiner_880{
+        margin: 0 45px 90px 53px;
+        height: 216px;
+    }
+    .tioah_heading{
+        margin: 0 110px 15px 0; 
+    }
+    .tioah_description{
+        margin:0 auto;
+    }
+    .tioah_feature2{
+        left: 63.5%;
+        top: -210px;
+        width: 70%;
+    }
+    .tioah_feature1{
+        left: -12%;
+        top: -450px;
+        width: 118.5%;
+    }
+    .tioah_three{
+        top: -575px;
+        left: -12%;
+    }
+    .btn_tryit_a{
+        width: 284px;
+        height: 61px;
+        font-size: 16px;
+        line-height: 58px;
+    }
+    .social-post4{
+        margin: 0 31.5px 68px 31.5px;
+    }
+    .social-post-inner {
+        flex-wrap: wrap;
+    } 
+    .social-post1 {
+        flex-basis: 100%;
+        margin-right: 0;
+        margin-bottom: 34px;
+    }
+    .footer{
+        margin: 0 14px 32px 13px;
+    }
+    .conteiner_1216{
+        padding: 41px 34px 19px 34px ;
+    }
+    .social{
+        display: none;
+    }
+    .conteiner_1182{
+        padding: 0 7px 0 34px;
+    }
+    .column{
+        width: 139px;
+    }
+    .column:nth-child(1) {
+        order: 1;
+    } 
+    .column:nth-child(2) {
+        order: 3;
+    } 
+    .column:nth-child(3) {
+        order: 2;
+    }
+    .column:nth-child(4) {
+        order: 4;
+    }
+    .column_heading{
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .column_a{
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .tp{
+        display: block;
+    }
+    .terms,.pp{
+        margin-left: 34px;
+    }
+    .footer-description{
+        margin: 10px 0 20px 34px; 
+    }
+}
